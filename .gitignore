@@ -1,0 +1,4 @@
+dasapp/__pycache__/
+docappsystem/__pycache__/
+db.sqlite3
+dasapp/migrations/__pycache__/
